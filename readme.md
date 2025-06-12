@@ -73,7 +73,7 @@ app/
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/chaerul-id/SmartLamp.git
+[git clone https://github.com/chaerul-id/SmartLamp.git](https://github.com/chaerul24/smartlamp_esp_android)
 ```
 
 2. Buka project di Android Studio
